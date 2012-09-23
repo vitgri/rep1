@@ -50,6 +50,7 @@ elif x==4:
 
 print   "*      *"
 print   "*      *"
+print   "*      *"
 print   "********"
 print   "       *"
 print   "       *"
@@ -78,24 +79,13 @@ elif x==7:
 
 print   "********"
 print   "      * "
-print   "      * "
- print   "     *  "
+print   "     *  "
 print   "    *   "
 print   "   *    "
 print   "  *     "
 print   " *      "
 print   "*       "
 
-elif x==8:
-
-print   "********"
-print   "      * "
- print   "     *  "
-print   "    *   "
-print   "   *    "
-print   "  *     "
-print   " *      "
-print   "*       "
 
 elif x==8:
 
