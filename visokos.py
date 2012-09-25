@@ -1,7 +1,5 @@
 x = int(raw_input("Please enter an year: "))
-#if x.isdigit()==false:
-
-#print "Enter the number!"      
+    
 
 if (x%400) ==0:
 print 'Visokosn'
